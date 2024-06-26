@@ -1,0 +1,35 @@
+{
+    "prettier.ignorePath": ".gitignore",
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": ["source.addMissingImports", "source.fixAll.eslint"],
+    "[json][jsonc][yaml]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "cSpell.words": [
+        "alexa",
+        "Aptos",
+        "commited",
+        "dagre",
+        "imgs",
+        "keypairs",
+        "lamports",
+        "Layouted",
+        "mangoteam",
+        "mysten",
+        "rankdir",
+        "svgs",
+        "voicetopay",
+        "zklogin"
+    ]
+}
